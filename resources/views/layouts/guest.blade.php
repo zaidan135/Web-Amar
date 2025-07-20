@@ -82,7 +82,7 @@
                         </text>
                     </svg>
                 </div>
-                <img class="w-[50%] rounded-full bg-white p-6" src="{{ asset('storage/img-login.svg') }}" alt="img-login">
+                <img class="w-[50%] rounded-full bg-white p-6" src="{{ asset('images/img-login.svg') }}" alt="img-login">
             </div>
         </div>
     </div>
