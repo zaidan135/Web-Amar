@@ -1,1 +1,1 @@
-feat: Move public images to public/images and update paths
+fix: Update logo.png path in landing-page.blade.php

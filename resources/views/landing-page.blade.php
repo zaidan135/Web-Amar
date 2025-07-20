@@ -72,7 +72,7 @@
     <div class="film-effect"></div>
 
     {{-- Logo --}}
-    <img src="{{ asset('storage/logo.png') }}" alt="Logo" class="logo">
+    <img src="{{ asset('images/logo.png') }}" alt="Logo" class="logo">
 
     {{-- Spinner --}}
     <div class="spinner"></div>
