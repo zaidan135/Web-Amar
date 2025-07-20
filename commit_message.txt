@@ -1,1 +1,1 @@
-fix: Configure TrustProxies for Railway deployment
+feat: Include storage/app/public files in repository
